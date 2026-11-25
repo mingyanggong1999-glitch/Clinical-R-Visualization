@@ -1,0 +1,18 @@
+{
+  "version": 1,
+  "fields": {
+    "kind": "scatter",
+    "group": "Arm",
+    "x": "AgeYears",
+    "y": "Score",
+    "category": "Patient",
+    "id": "Patient",
+    "variables": ["Patient", "Arm", "AgeYears", "Score", "Flag"],
+    "filter": "",
+    "filter_values": {},
+    "distinct": false,
+    "blank_missing": true,
+    "bins": 20
+  },
+  "extra": {}
+}

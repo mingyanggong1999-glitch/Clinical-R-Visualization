@@ -1,0 +1,11 @@
+SUBJECT,SOC,PT,TRTEMFL
+001,Nervous system,Headache,Y
+001,Nervous system,Dizziness,Y
+002,Gastrointestinal,Nausea,Y
+003,Nervous system,Headache,Y
+003,Gastrointestinal,Nausea,N
+004,Gastrointestinal,Nausea,Y
+005,Nervous system,Headache,Y
+006,Gastrointestinal,Nausea,Y
+007,Nervous system,Dizziness,Y
+008,Nervous system,Headache,Y

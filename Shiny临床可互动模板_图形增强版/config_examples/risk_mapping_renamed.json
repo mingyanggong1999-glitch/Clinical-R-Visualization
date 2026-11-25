@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "fields": {
+    "site": "Center",
+    "metric": "RiskName",
+    "value": "Observed",
+    "date": "AtDate",
+    "den": "SampleSize",
+    "date_format": "%Y-%m-%d",
+    "date_origin": "1960-01-01"
+  },
+  "extra": {
+    "rules": [
+      {
+        "METRIC": "Test",
+        "RED_LOW": null,
+        "AMBER_LOW": null,
+        "AMBER_HIGH": null,
+        "RED_HIGH": 20,
+        "MIN_N": 0
+      }
+    ]
+  }
+}

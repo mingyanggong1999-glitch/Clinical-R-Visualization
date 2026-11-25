@@ -1,0 +1,6 @@
+Patient,Arm,AgeYears,Score,Flag
+0001,A,45,65,Y
+0002,A,52,72,Y
+0003,B,61,58,Y
+0004,B,70,51,N
+0005,B,44,67,Y
